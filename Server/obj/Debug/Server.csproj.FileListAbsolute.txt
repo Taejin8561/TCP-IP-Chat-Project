@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\Server\Server\bin\Debug\Server.exe.config
+C:\Users\USER\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\USER\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\USER\Desktop\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Server\Server\obj\Debug\Server.ServerForm.resources
+C:\Users\USER\Desktop\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\USER\Desktop\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Server\Server\obj\Debug\Server.exe
+C:\Users\USER\Desktop\Server\Server\obj\Debug\Server.pdb
+C:\Users\USER\Desktop\Server\Server\obj\Debug\Server.InputNetInfoForm.resources
