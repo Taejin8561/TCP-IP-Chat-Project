@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\Project\Client\Client\bin\Debug\Client.exe.config
+C:\Users\USER\Desktop\Project\Client\Client\bin\Debug\Client.exe
+C:\Users\USER\Desktop\Project\Client\Client\bin\Debug\Client.pdb
+C:\Users\USER\Desktop\Project\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Project\Client\Client\obj\Debug\Client.ClientForm.resources
+C:\Users\USER\Desktop\Project\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\USER\Desktop\Project\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Project\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Project\Client\Client\obj\Debug\Client.exe
+C:\Users\USER\Desktop\Project\Client\Client\obj\Debug\Client.pdb
+C:\Users\USER\Desktop\Project\Client\Client\obj\Debug\Client.InputNetInfoForm.resources
